@@ -1,0 +1,13 @@
+header{
+    background-color: #2F4F4F;
+    padding: 150px;
+    align-items: center;
+}
+
+input{
+    width: 350px;
+}
+
+button{
+    background-color: white;
+}
